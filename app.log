@@ -1,0 +1,27 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an information","timestamp":"2024-09-28T11:45:15.130Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error","timestamp":"2024-09-28T11:45:15.141Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning","timestamp":"2024-09-28T11:45:15.142Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an information","timestamp":"2024-09-28T11:45:33.628Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error","timestamp":"2024-09-28T11:45:33.635Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning","timestamp":"2024-09-28T11:45:33.636Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an information","timestamp":"2024-09-28T11:49:43.560Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error","timestamp":"2024-09-28T11:49:43.580Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning","timestamp":"2024-09-28T11:49:43.581Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an information","timestamp":"2024-09-28T11:49:49.491Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error","timestamp":"2024-09-28T11:49:49.500Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning","timestamp":"2024-09-28T11:49:49.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"This is an information","timestamp":"2024-09-28T11:49:59.212Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"This is an error","timestamp":"2024-09-28T11:49:59.222Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"This is a warning","timestamp":"2024-09-28T11:49:59.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"","timestamp":"2024-09-28T11:51:41.935Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port ","timestamp":"2024-09-28T11:51:50.400Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port $","timestamp":"2024-09-28T11:51:53.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 7000","timestamp":"2024-09-28T11:51:56.735Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 7000","timestamp":"2024-09-28T11:52:12.919Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 7000","timestamp":"2024-09-28T11:53:01.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 8000","timestamp":"2024-09-28T12:01:40.921Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 8000","timestamp":"2024-09-28T12:02:17.559Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"The app is running on port 8000","timestamp":"2024-09-28T12:03:26.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"404\",\"responseTime\":\"5.196\"}","timestamp":"2024-09-29T07:44:26.242Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"404\",\"responseTime\":\"0.799\"}","timestamp":"2024-09-29T07:45:29.357Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/register\",\"status\":\"404\",\"responseTime\":\"1.611\"}","timestamp":"2024-10-01T19:42:22.925Z"}
